@@ -7,4 +7,6 @@ int main()
 		printf("%d\n",i);
 		i++;
 	}
+	printf("loop was completed\n");
+
 }
